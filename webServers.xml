@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="23f89b6c-6852-42b1-9d4b-95ab28acd6f5" name="Vagrant" url="http://127.0.0.1">
+        <fileTransfer host="127.0.0.1" port="2201" privateKey="$USER_HOME$/.vagrant.d/boxes/TicketSwap-VAGRANTSLASH-website/2.4.1/virtualbox/vagrant_private_key" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2201" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
