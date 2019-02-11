@@ -62,4 +62,12 @@
     <variable name="RETURN" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
+  <template name="mock" value="$this-&gt;$CLASS_NAME$ = \Mockery::mock($capitalize(CLASS_NAME)$)::class);" description="Create a mockery object" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP Expression" value="false" />
+    </context>
+  </template>
 </templateSet>
