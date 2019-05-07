@@ -22,5 +22,6 @@
     <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*.yml</mask>
+    <mask>*.en.yml</mask>
   </component>
 </application>
