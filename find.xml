@@ -19,9 +19,9 @@
     <mask>*.nl.yml</mask>
     <mask>*test.php</mask>
     <mask>*twig</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.en.yml</mask>
     <mask>*.yaml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
