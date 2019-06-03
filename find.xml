@@ -21,8 +21,8 @@
     <mask>*twig</mask>
     <mask>*.yml</mask>
     <mask>*.en.yml</mask>
-    <mask>*.yaml</mask>
     <mask>*.js</mask>
     <mask>*Test.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
